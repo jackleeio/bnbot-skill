@@ -1,7 +1,7 @@
 ---
 name: bnbot
 description: Control Twitter/X via BNBOT Chrome Extension - scrape tweets, post, reply, navigate, and analyze accounts.
-version: 0.3.0
+version: 0.3.1
 homepage: https://github.com/jackleeio/bnbot-mcp-server
 metadata:
   openclaw:
@@ -56,7 +56,7 @@ Tell the user:
 > BNBOT Chrome Extension is not connected. Please check:
 >
 > 1. **Install the extension** (if not installed):
->    Download from Chrome Web Store: https://chromewebstore.google.com/detail/bnbot
+>    Download from Chrome Web Store: https://chromewebstore.google.com/detail/bnbot-your-ai-growth-agen/haammgigdkckogcgnbkigfleejpaiiln
 >
 > 2. **Open Twitter/X** in Chrome (https://x.com)
 >
